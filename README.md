@@ -1,3 +1,3 @@
 # Frontend Portfolio
 
-The website about my person and my development expirience
+The website about my person and my development experience

@@ -1,5 +1,3 @@
-function App() {
-  return <></>
+export const App = () => {
+  return <main className='w-full'></main>
 }
-
-export default App
